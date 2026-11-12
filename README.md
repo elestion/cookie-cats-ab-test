@@ -40,4 +40,4 @@ Python (pandas, matplotlib, SciPy) · SQL (DuckDB) · Jupyter
 
 ## Data
 
-Public dataset of the Cookie Cats A/B test, originally published as a DataCamp project and widely available on GitHub. Built with AI assistance (Claude).
+Public dataset of the Cookie Cats A/B test, originally published as a DataCamp project and widely available on GitHub.
